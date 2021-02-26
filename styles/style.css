@@ -11,3 +11,12 @@ body {
     background-color: hsl(235, 16%, 14%);
 }
 
+/* Welcome */
+
+.welcome {
+    color: hsl(0, 0%, 100%);
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
