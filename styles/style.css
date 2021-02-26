@@ -29,6 +29,21 @@ body {
     letter-spacing: 6px;
 }
 
+/* Label */
+
+.label {
+    max-width: 600px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.label__content {
+    color: hsl(237, 18%, 59%);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
 /* Social */
 
 .social {
